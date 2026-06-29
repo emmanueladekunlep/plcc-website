@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Page Not Found | Prayer Life Christian Centre</title>
+    <meta name="robots" content="noindex, follow" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+    <link rel="icon" href="/images/favicon.ico" />
+    <style>
+        .error-page {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 40px 20px;
+            background: var(--cream);
+        }
+        .error-page .error-code {
+            font-size: 8rem;
+            font-weight: 800;
+            color: var(--gold);
+            line-height: 1;
+            margin: 0;
+            text-shadow: 0 4px 20px rgba(201, 160, 61, 0.2);
+        }
+        .error-page .error-icon {
+            font-size: 3rem;
+            color: var(--gold);
+            margin-bottom: 10px;
+        }
+        .error-page h1 {
+            font-size: 2rem;
+            color: var(--navy);
+            margin: 10px 0;
+        }
+        .error-page p {
+            color: var(--slate);
+            max-width: 500px;
+            margin: 10px auto 30px;
+            font-size: 1.1rem;
+        }
+        .error-page .error-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: center;
+        }
+        @media (max-width: 480px) {
+            .error-page .error-code { font-size: 5rem; }
+            .error-page h1 { font-size: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="error-page">
+        <div class="error-icon"><i class="fas fa-cross"></i></div>
+        <div class="error-code">404</div>
+        <h1>Page Not Found</h1>
+        <p>We're sorry, but the page you are looking for does not exist. It may have been moved, renamed, or removed.</p>
+        <div class="error-buttons">
+            <a href="index.html" class="btn btn-primary"><i class="fas fa-home"></i> Return to Home</a>
+            <a href="connect.html" class="btn btn-gold"><i class="fas fa-praying-hands"></i> Connect With Us</a>
+        </div>
+        <p style="margin-top: 30px; font-size: 0.85rem; color: var(--slate);">
+            <i class="fas fa-bible"></i> "The Lord is near to all who call on him, to all who call on him in truth." — Psalm 145:18
+        </p>
+    </div>
+
+</body>
+</html>

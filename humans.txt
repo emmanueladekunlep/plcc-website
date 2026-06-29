@@ -1,0 +1,36 @@
+# ============================================
+# HUMANS.TXT - Prayer Life Christian Centre
+# ============================================
+
+/* TEAM */
+    Lead Pastor: Wilfred A. Aigbomobe
+    Website: https://plccglobal.com
+    Email: info@plccglobal.com
+    Phone: +44 7473 742836
+
+/* THANKS */
+    God, PLCC Family, Global Partners, Supporters
+
+/* SITE */
+    Last update: 2026-06-29
+    Standards: HTML5, CSS3, JavaScript (ES6+)
+    Components: Vanilla JS, Font Awesome, Google Fonts
+
+/* COLORS - PLCC */
+    Navy Blue: #1E3A5F
+    Gold: #C9A03D
+    White: #FFFFFF
+    Light Gray: #F8FAFC
+
+/* PAGES */
+    Home: https://plccglobal.com/
+    About: https://plccglobal.com/about.html
+    Vision: https://plccglobal.com/vision.html
+    Sermons: https://plccglobal.com/sermons.html
+    Connect: https://plccglobal.com/connect.html
+    Give: https://plccglobal.com/give.html
+
+/* EXTERNAL LINKS */
+    Podcast: https://www.buzzsprout.com/2280674
+    Support: https://buymeacoffee.com/globalrevivalblast
+    Pastor Wilfred: https://pastorwilfred.com/

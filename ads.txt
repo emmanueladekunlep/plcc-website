@@ -1,0 +1,6 @@
+# ============================================
+# ADS.TXT - Prayer Life Christian Centre
+# ============================================
+
+# Replace YOUR-PUBLISHER-ID with your actual AdSense Publisher ID
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

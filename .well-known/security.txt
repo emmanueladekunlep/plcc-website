@@ -1,0 +1,15 @@
+# ============================================
+# SECURITY.TXT - Prayer Life Christian Centre
+# ============================================
+
+Contact: mailto:info@plccglobal.com
+Contact: https://pastorwilfred.com/
+Preferred-Languages: en
+Canonical: https://plccglobal.com/.well-known/security.txt
+
+# ============================================
+# DISCLOSURE POLICY
+# ============================================
+
+We take security seriously. If you discover a vulnerability,
+please contact us immediately. We will respond within 48 hours.

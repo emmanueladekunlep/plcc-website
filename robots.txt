@@ -1,0 +1,88 @@
+# ============================================
+# ROBOTS.TXT - Prayer Life Christian Centre
+# ============================================
+
+User-agent: *
+Allow: /
+
+# ===== SITEMAP LOCATION =====
+Sitemap: https://plccglobal.com/sitemap.xml
+
+# ===== CRAWL DELAY =====
+Crawl-delay: 5
+
+# ===== DISALLOWED PATHS =====
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /assets/
+Disallow: /fonts/
+
+# ===== DISALLOW SPECIFIC FILES =====
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /*.json$
+
+# ============================================
+# Googlebot Specific
+# ============================================
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 2
+
+# ============================================
+# Bingbot Specific
+# ============================================
+
+User-agent: bingbot
+Allow: /
+Crawl-delay: 2
+
+# ============================================
+# SEO Bots
+# ============================================
+
+User-agent: AhrefsBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: SemrushBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: DotBot
+Allow: /
+Crawl-delay: 5
+
+# ============================================
+# Social Media Bots
+# ============================================
+
+User-agent: Facebookbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+# ============================================
+# Block Bad Bots
+# ============================================
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Nimbostratus-Bot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
